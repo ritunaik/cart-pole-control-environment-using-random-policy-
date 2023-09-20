@@ -16,11 +16,11 @@ The code accomplishes the following tasks:
 7. Resets the environment when an episode is done.
 8. Displays the environment for visualization purposes.
 
-## How to Use
+## How to Use: 
 
 1. Ensure you have Python 3.x installed on your system.
 
-2. Install the Gymnasium library using pip:
+2. Install the Gymnasium library using pip : 
    ```bash
    pip install gymnasium
    
@@ -30,18 +30,19 @@ git clone https://github.com/yourusername/your-repo.git
 Navigate to the project directory:
 cd your-repo
 
-Run the main Python script to explore the CartPole environment:
+Run the main Python script to explore the CartPole environment :
 python cartpole_exploration.py
+
 Follow the code comments and output to understand the functionality and behavior of the code.
 
-Dependencies
+Dependencies :
 Python 3.x
 Gymnasium library
 
-License
+License : 
 This code is provided under the MIT License. Feel free to use it, modify it, and distribute it as needed. Refer to the LICENSE file for more details.
 
-Author
+Author : 
 Ritu R Naik
 
 Enjoy exploring the CartPole environment and experimenting with reinforcement learning concepts!
